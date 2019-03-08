@@ -12,6 +12,7 @@ it consists of following functions :-
    bank and there will be also an option to cancel your RD in between)
 8. For daily interest, FD and RD there will be notifications and warning which will be displayed  automatically accordind to the
    situation of the program
-9. There is a refresh system also(which will update all accounts for fd,rd and daily interest only when System date and program date is
-   different
+9. There is a refresh system also(which will update all accounts for fd,rd and daily interest only when System date and program               
+   date is different
 10. The backbone of this project is time retrieval function,transaction history function, refresh system
+11. In this none of the function has copied form any source
